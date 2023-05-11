@@ -27,6 +27,9 @@ markdown: kramdown
 # Hide search:
 hide_search: true
 
+# Add icon for JSON Feeds, whatever that is:
+feed_icon: /assets/images/icon-512.png
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
